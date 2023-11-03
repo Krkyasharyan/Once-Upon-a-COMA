@@ -1,0 +1,10 @@
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Server.exe
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Server.dll
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Server.deps.json
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Server.runtimeconfig.json
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Server.pdb
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Newtonsoft.Json.dll
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Common.dll
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Game.dll
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Game.pdb
+C:\Users\leiha\Desktop\sjtus\Common\Server\bin\Release\net7.0\publish\Common.pdb

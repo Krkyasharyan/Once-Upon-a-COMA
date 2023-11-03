@@ -1,0 +1,4 @@
+repository "UI_Test@texaswill@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

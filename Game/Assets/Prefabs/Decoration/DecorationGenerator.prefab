@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1344786300310988103
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 897320787584727887}
+  - component: {fileID: 4050029836270703808}
+  m_Layer: 0
+  m_Name: DecorationGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &897320787584727887
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1344786300310988103}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 18, y: 10, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4050029836270703808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1344786300310988103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8508d3215b6627645a52c79f24b4228f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  decorationPrefabs:
+  - {fileID: 4508995054573194551, guid: c9ee277f1817e0f408fff6feb74889c9, type: 3}
+  - {fileID: 908990306117378834, guid: b268e331a1e75f843b8a8f6eedbc245b, type: 3}
+  - {fileID: 7877782633584514153, guid: 1e383a0487b59314ebb6db81844f61e8, type: 3}
+  - {fileID: 3663490417766546599, guid: 8d0b77db352161643bd6aea69eab4332, type: 3}
+  - {fileID: 7498067612211175341, guid: fb705a23666661146a401d27ad983c84, type: 3}
+  - {fileID: 7179393611433942372, guid: bc1195639d7ef8a42a1723c785e0d7f5, type: 3}
+  - {fileID: 5699788646058884155, guid: 1de1475cbbc5dfb4d85f0cfd3add03b8, type: 3}
+  mapWidth: 16
+  mapHeight: 8
+  decorationCount: 4

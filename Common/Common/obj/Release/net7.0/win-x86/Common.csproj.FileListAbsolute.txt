@@ -1,0 +1,12 @@
+D:\SJTU\jetbrains\rider\Solution1\Common\bin\Release\net7.0\win-x86\Common.deps.json
+D:\SJTU\jetbrains\rider\Solution1\Common\bin\Release\net7.0\win-x86\Common.dll
+D:\SJTU\jetbrains\rider\Solution1\Common\bin\Release\net7.0\win-x86\Common.pdb
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\win-x86\Common.csproj.AssemblyReference.cache
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\win-x86\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\win-x86\Common.AssemblyInfoInputs.cache
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\win-x86\Common.AssemblyInfo.cs
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\win-x86\Common.csproj.CoreCompileInputs.cache
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\win-x86\Common.dll
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\win-x86\refint\Common.dll
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\win-x86\Common.pdb
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\win-x86\ref\Common.dll

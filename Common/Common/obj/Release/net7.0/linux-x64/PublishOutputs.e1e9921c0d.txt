@@ -1,0 +1,3 @@
+D:\desktop\game\C#\Common.dll
+D:\desktop\game\C#\Common.deps.json
+D:\desktop\game\C#\Common.pdb

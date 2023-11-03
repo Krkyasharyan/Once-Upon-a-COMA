@@ -1,0 +1,15 @@
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\SJTU\jetbrains\rider\Solution1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll

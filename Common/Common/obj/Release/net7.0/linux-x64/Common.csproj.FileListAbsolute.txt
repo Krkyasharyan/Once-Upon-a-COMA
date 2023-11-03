@@ -1,0 +1,12 @@
+D:\SJTU\jetbrains\rider\Solution1\Common\bin\Release\net7.0\linux-x64\Common.deps.json
+D:\SJTU\jetbrains\rider\Solution1\Common\bin\Release\net7.0\linux-x64\Common.dll
+D:\SJTU\jetbrains\rider\Solution1\Common\bin\Release\net7.0\linux-x64\Common.pdb
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\linux-x64\Common.csproj.AssemblyReference.cache
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\linux-x64\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\linux-x64\Common.AssemblyInfoInputs.cache
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\linux-x64\Common.AssemblyInfo.cs
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\linux-x64\Common.csproj.CoreCompileInputs.cache
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\linux-x64\Common.dll
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\linux-x64\refint\Common.dll
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\linux-x64\Common.pdb
+D:\SJTU\jetbrains\rider\Solution1\Common\obj\Release\net7.0\linux-x64\ref\Common.dll

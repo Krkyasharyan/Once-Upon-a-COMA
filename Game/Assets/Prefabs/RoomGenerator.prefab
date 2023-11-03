@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2357353396435540582
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3807443908884581311}
+  m_Layer: 0
+  m_Name: RoomPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3807443908884581311
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2357353396435540582}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5933665412863520409}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7123034859294606971
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5933665412863520409}
+  - component: {fileID: 7154637506993024335}
+  m_Layer: 0
+  m_Name: RoomGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5933665412863520409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7123034859294606971}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3807443908884581311}
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7154637506993024335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7123034859294606971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0367d43e73d7a754b9797af64f1a1544, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomPrefab: {fileID: 712389635896770958, guid: 8e1e6af0bf5511e41a2af4e764b1a628, type: 3}
+  roomNumber: 10
+  startColor: {r: 0.41568628, g: 1, b: 0.3254902, a: 1}
+  endColor: {r: 0.9433962, g: 0.33653408, b: 0.2729322, a: 1}
+  wallColor: {r: 0, g: 0, b: 0, a: 1}
+  generatorPoint: {fileID: 3807443908884581311}
+  numPos: {x: 0, y: 0}
+  xOffset: 18
+  yOffset: 10
+  direction: 0
+  rooms: []
+  posList: []
+  roomSetList:
+  - {fileID: 2585782721158432919, guid: 5c1c01e5304f5b64583fb52fc7a5d4fe, type: 3}
+  - {fileID: 7676131877644936104, guid: a180a88d12b09eb429731cb44d0bf955, type: 3}
+  - {fileID: 1977028480740814699, guid: 89282fb8e08c98f49bd769d6a4c85a64, type: 3}
+  - {fileID: 8616006699053253853, guid: 7f4c6ec25be05774c8f8ba0eb7e1612d, type: 3}
+  - {fileID: 7583914060117609225, guid: 6845c9b3531652a45a8b5de8b83687bd, type: 3}
+  - {fileID: 9151215796112541057, guid: 6c6097be8f266ad4996accfb36feaca0, type: 3}
+  lastRoom: {fileID: 9120090294489275337, guid: 9ffd3c53a2921bb45984b3cde533c7e8, type: 3}
+  decoration: {fileID: 4050029836270703808, guid: 9b8e386e3178f3c4d9b7e2af1d2a1f40, type: 3}
+  wallType:
+    WallU: {fileID: 8582410504474334824, guid: fb8704e68d3bd7242884f95b1859b028, type: 3}
+    WallD: {fileID: 1974370813974222401, guid: 9acc537d2d441354d8d08789848e74bf, type: 3}
+    WallL: {fileID: 6787204061777503580, guid: b9db38ac521c2a746b4ff4fd97c5843c, type: 3}
+    WallR: {fileID: 4163074642227955714, guid: b256ee7b8d93aaa4e8e673b5ba89384b, type: 3}
+    WallUD: {fileID: 6086371160749413666, guid: 67758fc6c7cda574b84de70ed8bca48e, type: 3}
+    WallUL: {fileID: 4538535338314495795, guid: 038a086bc4e15d1409a4233811d9c6eb, type: 3}
+    WallUR: {fileID: 7983526719027138607, guid: 1b187f90401a54940a72c9e3c27c220b, type: 3}
+    WallDL: {fileID: 3924301863343106231, guid: f2bf6553ca5755340a89556701ad169d, type: 3}
+    WallDR: {fileID: 3393425241279611983, guid: 70dc5ec8dbd01b043b6852e9cc38817d, type: 3}
+    WallLR: {fileID: 9106399148982067289, guid: d98efdb413fdd1d47888eeb8b3585fa3, type: 3}
+    WallUDL: {fileID: 5599091307979831172, guid: a32968fe71eeea246933f57e661bab06, type: 3}
+    WallUDR: {fileID: 1719550115026393600, guid: 8a84a2b8dd3598c40a6ddb404cacd664, type: 3}
+    WallULR: {fileID: 7965335555752631307, guid: 1935ee24b36e20148b07a047cc43adb6, type: 3}
+    WallDLR: {fileID: 5787836843653435422, guid: 6e093aba14009634f9de94504ead2db0, type: 3}
+    WallUDLR: {fileID: 75083756280671538, guid: 6abc7b4c028e37048b062e24194e7e74, type: 3}
+  resetFlag: 0
